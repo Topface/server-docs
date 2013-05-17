@@ -1,3 +1,3 @@
-## vokrug-docs
+## server-docs
 
-Основанный на [Gollum](https://github.com/github/gollum) просмотрщик документации из github для сервера Вокруг.
+[Gollum](https://github.com/github/gollum) based wiki server for your docs.
